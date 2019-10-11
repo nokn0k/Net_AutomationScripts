@@ -1,0 +1,4 @@
+logging buffered 21000
+logging console
+clock timezone EST -5 0
+

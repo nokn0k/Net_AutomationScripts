@@ -1,0 +1,10 @@
+vlan 147
+name eze_vlan_1
+vlan 267
+name eze_vlan_2
+vlan 345
+name eze_vlan_3
+vlan 777
+name eze_vlan_4
+vlan 912
+name eze_vlan_5

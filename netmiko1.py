@@ -1,7 +1,8 @@
 from netmiko import ConnectHandler
 from getpass import getpass
 
-passwd = getpass()
+
+passwd = getpass("Enter User Password:")
 
 device_1 = {
 	"host": 'nxos2.lasthop.io',
