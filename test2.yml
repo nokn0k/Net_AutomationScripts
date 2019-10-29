@@ -1,0 +1,16 @@
+---
+- some_string
+- "some string with quotes"
+- null
+#bool
+- True
+- False
+- true
+- false
+- on
+- off
+- yes
+- no
+- 'no'
+- 'yes'
+
